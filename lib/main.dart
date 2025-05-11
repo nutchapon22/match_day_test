@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:match_day_test/page/tab_menu_page.dart';
-import 'package:match_day_test/page/todo_page.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
